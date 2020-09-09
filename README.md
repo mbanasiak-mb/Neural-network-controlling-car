@@ -6,6 +6,8 @@ How to use:
 3. Open MainScene from folder Assets\Resources\Scenes
 4. Play scene
 
+* It is required to connect all references in the inspector.
+
 Future features:
 - add project to repository ?
 - add built project to repository ?
